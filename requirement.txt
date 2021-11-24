@@ -1,0 +1,18 @@
+
+TOOLS
+
+Virtual Studio Code
+C Programming
+
+
+HIGH LEVEL REQUIREMENTS
+
+
+The primary requirement is use of a dictionary is to getting meaning of the words and searching the words that it is present or not.
+
+
+LOW LEVEL REQUIREMENTS
+
+It helps us prioritize. 
+It keeps us on track.
+It sets boundaries.
